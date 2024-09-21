@@ -1,4 +1,4 @@
-#Prédiction du Diabète avec un Modèle de Machine Learning Déployé en API Publique
+Prédiction du Diabète avec un Modèle de Machine Learning Déployé en API Publique
 
 Dans ce projet, j'ai développé et déployé un modèle de Machine Learning pour la prédiction du Diabète. Le modèle a été entraîné à l'aide d'un jeu de données médicales et utilise des caractéristiques spécifiques pour prédire la probabilité qu'une personne soit atteinte de diabète.
 
