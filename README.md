@@ -1,11 +1,11 @@
-Prédiction du Diabète avec un Modèle de Machine Learning Déployé en API Publique
+Diabetes Prediction with a Machine Learning Model Deployed as a Public API
 
-Dans ce projet, j'ai développé et déployé un modèle de Machine Learning pour la prédiction du Diabète. Le modèle a été entraîné à l'aide d'un jeu de données médicales et utilise des caractéristiques spécifiques pour prédire la probabilité qu'une personne soit atteinte de diabète.
+In this project, I developed and deployed a Machine Learning model for diabetes prediction. The model was trained using a medical dataset and uses specific features to predict the likelihood of an individual having diabetes.
 
-Les principales étapes du projet sont :
+Key steps in the project include:
 
-Prétraitement des données et entraînement du modèle avec Scikit-learn.
-Enregistrement du modèle entraîné pour utilisation future.
-Création d'une API RESTful en utilisant FastAPI, permettant d'envoyer des requêtes et de recevoir des prédictions.
-Déploiement de l'API localement et mise à disposition au public via ngrok, facilitant l'accès à l'API via un lien web.
-Grâce à cette API publique, les utilisateurs peuvent envoyer des données médicales et recevoir une prédiction en retour, rendant ainsi le modèle accessible à une large audience de manière simple et rapide
+Preprocessing the data and training the model using Scikit-learn.
+Saving the trained model for future use.
+Building a RESTful API using FastAPI that allows users to send requests and receive predictions.
+Deploying the API locally and exposing it to the public using ngrok, enabling easy access via a web URL.
+This public API allows users to submit medical data and receive predictions, making the model accessible to a wide audience in a simple and efficient manner.
